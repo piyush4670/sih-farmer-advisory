@@ -1,0 +1,78 @@
+TITLE: Tomato Cultivation Advisory - Pest and Disease Management
+
+SOWING/PLANTING TIME
+Tomatoes can be grown in both Kharif and Rabi seasons in North India:
+- Kharif sowing: July-August
+- Rabi sowing: January-February
+Crop duration: approximately 90-120 days from transplanting to harvesting.
+
+SOIL AND SPACING
+- Best soil: rich, well-drained soil with pH 6-7 (medium-black or sandy loam)
+- Plant population: approximately 10,000-12,000 plants per acre
+- Maintain 25-50 meter isolation distance between different varieties if saving seed (tomato is self-pollinated)
+
+LAND PREPARATION
+Plow the field 2-3 times to make soil fine and loose before transplanting.
+
+FERTILIZER
+Use a balanced combination of farmyard manure along with urea (nitrogen), single super phosphate (phosphorus), and muriate of potash (potassium). Exact quantities should be based on soil test results - check with your local Soil Health Card report.
+
+IRRIGATION
+- Every 15-20 days in normal season; every 10 days in summer
+- Drip irrigation is recommended - saves water and improves fertilizer efficiency
+- Avoid overwatering (encourages fungal disease) and avoid water stress (causes flower drop and fruit cracking)
+
+WEED MANAGEMENT
+Important in early growth stages. Manual weeding and mulching are effective, since weeds compete with young tomato plants for nutrients, sunlight, and moisture.
+
+MAJOR PESTS AND TREATMENT
+
+1. Fruit Borer (Helicoverpa armigera) - most important pest of tomato
+- Damage: larva bores into fruit and feeds on pulp from inside; infested fruit is unfit for consumption
+- Treatment: spray Azadirachtin 1.0% EC at 2.0 ml/litre, or Indoxacarb 14.5% SC at 8 ml/10 litre, or Flubendiamide 20 WG at 5g/10 litre, or Novaluron 10% EC at 7.5 ml/10 litre
+- Also do mechanical collection and destruction of affected fruits, 3-4 times at periodic intervals
+- Use pheromone traps for monitoring
+
+2. Whitefly
+- Damage: sucks sap from leaves causing yellowing/curling, transmits leaf curl (mosaic) virus, produces honeydew leading to sooty mold
+- Treatment: use yellow sticky traps (12/hectare); if trap activity indicates infestation, spray Dimethoate 30 EC at 2ml/litre; remove severely infected plants; neem-based biopesticides work well for lower infestation levels
+
+3. Aphids and Jassid (Green Leafhopper)
+- Damage: suck sap, cause leaf yellowing and curling
+- Treatment: remove affected leaves; apply recommended insecticide only if infestation is significant
+
+4. Leaf Miner
+- Damage: larva mines between leaf layers making serpentine trails, reduces photosynthesis, causes defoliation
+- Monitor closely as extensive damage makes fruits unmarketable
+
+DISEASES AND TREATMENT
+
+1. Early Blight (fungal - Alternaria solani)
+- Symptoms: brown circular spots on leaves and fruits, irregular leaf spots starting from leaf margins, appears mainly in vegetative growth phase before flowering
+- Treatment: spray Dithane M-45 at 0.2% at 10-15 day intervals, or Chlorothalonil at 0.2% at 8-day intervals
+- Prevention: use healthy certified disease-free seed, remove and burn infected crop debris, summer plowing to reduce pathogen survival, minimize humidity in plant canopy
+
+2. Late Blight (fungal - Phytophthora infestans) - most devastating tomato disease
+- Symptoms: infects and destroys leaves, stems, and fruits rapidly; spreads fastest in high moisture with moderate temperature (20-25°C)
+- Treatment: spray Bordeaux mixture (1:1:100) at fortnightly intervals starting one month after planting; in severe cases use Ridomil/Matko at 2g/litre
+
+3. Powdery Mildew
+- Symptoms: white, chalky spots on leaves that spread rapidly, leaves turn yellow and drop
+- Treatment: spray 0.25% sulphur solution (25g in 10 litres water), repeat 2-3 times at 10-day intervals
+
+4. Seedling Blight (Damping-off)
+- Prevention: treat seeds before sowing with 2g Captan or Carbendazim per kg seed
+
+5. Bacterial Wilt and Viral infections (including leaf curl virus spread by whitefly)
+- No direct chemical cure - focus on prevention: use resistant varieties where available, control whitefly vector, remove infected plants immediately to prevent spread
+
+GENERAL DISEASE PREVENTION PRINCIPLE
+Crop rotation and choosing resistant varieties are the most cost-effective long-term solutions for disease management, since curative treatment is often difficult once a disease establishes.
+
+IMPORTANT SAFETY NOTE
+When using Imidacloprid on tomato, do not repeat spraying after the fruiting stage begins, as this may leave harmful chemical residue in the fruit meant for consumption.
+
+WHERE TO GET HELP
+Contact your local Krishi Vigyan Kendra (KVK) for current pest/disease pressure in your area and updated treatment recommendations, since chemical availability and resistance patterns change over time.
+
+SOURCE: ICAR-National Research Centre for Integrated Pest Management (NCIPM), state horticulture department guidelines.

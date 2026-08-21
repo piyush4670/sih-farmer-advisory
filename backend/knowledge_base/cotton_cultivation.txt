@@ -1,0 +1,49 @@
+TITLE: Cotton Cultivation Advisory - Focus on Pink Bollworm Management
+
+GENERAL CULTIVATION PRACTICES
+- Timely sowing of short to medium duration Bt-cotton hybrids/varieties is a key defense against pink bollworm - delayed sowing increases infestation risk
+- Proper plant spacing and balanced nutrient management improve crop resilience against pests and diseases
+- Foliar fertilization (e.g., potassium nitrate spray) can help support the crop during bloom stage
+
+PINK BOLLWORM (PBW) - THE MAJOR COTTON PEST IN INDIA
+- Scientific name: Pectinophora gossypiella
+- This pest bores into the cotton boll and feeds on blossoms and seeds from inside - it CANNOT be seen from outside, making it hard to detect
+- Infestation typically observed 45-60 days after sowing in Bt cotton
+- Has become a major threat across cotton growing states, especially in central and southern India, in recent years
+- Severity varies state to state
+
+MONITORING (essential for timely action)
+- Install pheromone traps at 5 traps per hectare, starting 45 days after sowing
+- Continue monitoring moth activity throughout the season
+- Take action based on Economic Threshold Level (ETL): 8 male moths per trap per night, OR 10% infested green bolls
+- Do not spray on a fixed schedule - only when ETL is crossed, this avoids unnecessary chemical use and cost
+
+INTEGRATED MANAGEMENT STRATEGY (ICAR-CICR recommendations)
+1. Timely sowing of recommended Bt-cotton varieties
+2. Use of refuge crop (non-Bt cotton planted alongside, as per seed packet instructions) - delays resistance development
+3. Regular pheromone trap monitoring
+4. After 60 days of sowing: spray neem seed extract 5% + neem oil mixture as an early, less harmful intervention
+5. Biological control: Trichogramma (a beneficial parasitic wasp) can be released at 60,000/acre, at 3-week intervals, between October and December, based on availability
+6. Use only recommended and approved insecticides - do not mix insecticides
+7. Avoid these insecticides in the first 3 months of the crop: Monocrotophos, Acephate, Imidacloprid, Thiamethoxam (these harm natural predators and can worsen pest resistance)
+8. Field sanitation - remove and destroy crop residue after harvest to reduce pest carryover to next season
+9. Timely termination of the crop (don't let it stand too long after harvest) - this breaks the pest's life cycle
+
+OTHER SUCKING PESTS TO MONITOR ALONGSIDE PBW
+- Thrips, whitefly, and leafhopper (jassid) also affect cotton and should be monitored using ETL guidelines, since focusing only on bollworm can let these pests build up
+- Whitefly ETL: approximately 8-10 per 3 leaves (verify current threshold with local KVK)
+
+COTTON DISEASES TO WATCH
+- Cotton Leaf Curl Disease (viral, spread by whitefly) - graded I to IV in severity
+- Fungal foliar leaf spots - can appear alongside pest damage, consult KVK for fungicide recommendation if observed
+
+WHY IPM WORKS BETTER THAN CHEMICAL-ONLY APPROACH
+Field studies show IPM-based cotton management reduces the number of insecticide sprays needed (by around 50%) while increasing yield (by around 28%) compared to farmers' conventional practice, along with better economic returns. This is because IPM conserves natural predators and parasitoids in the field, which help control pests naturally.
+
+IMPORTANT WARNING
+Farmers should only purchase authenticated/genuine agri-inputs (seeds, pesticides) from verified sources - counterfeit products are a real risk and can fail to protect the crop while wasting money.
+
+WHERE TO GET HELP
+Contact your local Krishi Vigyan Kendra (KVK) or ICAR-CICR (Central Institute for Cotton Research, Nagpur) for current, region-specific recommendations, as pest pressure and resistance patterns change season to season.
+
+SOURCE: ICAR-CICR (Central Institute for Cotton Research), ICAR-NCIPM field validation studies.
