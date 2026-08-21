@@ -1,0 +1,53 @@
+TITLE: Soil Health and Sustainable Farming Practices - General Advisory
+
+WHY SOIL HEALTH MATTERS
+Soil health is the foundation of sustainable farming - it determines a farm's long-term productivity, resilience, and profitability. Overuse of chemical fertilizers, excessive irrigation, and continuous monocropping (growing the same crop repeatedly) have led to widespread soil degradation, groundwater depletion, and lower crop resilience across Indian agriculture. Healthy soil ensures high organic matter, good soil structure, proper water and nutrient retention, and strong root growth.
+
+SOIL TESTING - THE FOUNDATION OF GOOD PRACTICE
+Soil testing should be done at least once every season, or before major planting, using the free Soil Health Card scheme (see separate scheme file). This helps apply the right nutrients in the right amount, rather than guessing or following blanket recommendations, which often leads to over- or under-fertilization.
+
+CROP ROTATION - ONE OF THE SIMPLEST, MOST EFFECTIVE PRACTICES
+Growing the same crop repeatedly on the same land reduces soil fertility and increases pest and disease problems, since pests/pathogens that target a specific crop build up in the soil over successive seasons.
+
+Benefits of crop rotation:
+- Leguminous crops (chickpea, soybean, pulses) fix nitrogen in soil naturally, enriching it for the next crop
+- Deep-rooted crops followed by shallow-rooted crops helps balance nutrient uptake from different soil depths
+- Improves and maintains soil fertility by balancing overall nutrient use
+- Prevents soil erosion
+- Manages root diseases and prevents their buildup in a field
+- Controls pest and disease carryover between seasons
+
+General rotation principle: grow non-leguminous crops after leguminous crops to take advantage of the nitrogen the legume crop leaves behind (e.g., wheat after chickpea/soybean is a well-established beneficial rotation in Central India).
+
+ADDING ORGANIC MATTER
+Regularly adding organic matter (farmyard manure, compost, crop residue, green manure crops) supports beneficial soil microbes, increases water retention, and helps crops access nutrients more efficiently. Soil organic carbon is one of the most important indicators of overall soil health.
+
+CONSERVATION AGRICULTURE PRINCIPLES (increasingly promoted in India)
+Three core concepts:
+1. Minimal or no soil disturbance (reduced/zero tillage)
+2. Permanent soil cover (crop residue left on surface, or cover crops)
+3. Crop rotation/diversification
+These practices together restore soil structure, increase organic matter, promote soil biodiversity, and improve climate resilience over time.
+
+CROP RESIDUE MANAGEMENT - AVOID BURNING
+Burning crop residue (a common practice after mechanized harvest, especially wheat/rice) depletes organic matter and nutrients, and destroys beneficial soil microorganisms - it damages long-term soil health even though it seems like a quick, easy way to clear the field. Alternative: use Happy Seeder or Super Seeder technology (available at subsidized rates through Custom Hiring Centres - see farm machinery file) to sow the next crop directly into standing stubble without burning it.
+
+WATER-RELATED SOIL PRACTICES
+- Mulching reduces evaporation from soil surface, helping retain moisture
+- Schedule irrigation based on crop growth stage and weather conditions, not a fixed calendar
+- Rainwater harvesting through farm ponds and recharge pits improves water availability and reduces dependence on groundwater
+- Drip irrigation is especially valuable in dry areas - significantly reduces water use and allows more efficient fertilizer application through fertigation
+
+INTEGRATED NUTRIENT MANAGEMENT (INM)
+Combining chemical fertilizers with organic sources (farmyard manure, compost, biofertilizers) gives better long-term results than relying on chemical fertilizer alone. Field studies in India (e.g., soybean-wheat rotation systems) show that Integrated Nutrient Management and soil-test-based fertilization outperform farmers' conventional practice in both yield and profitability over time.
+
+INTEGRATED PEST MANAGEMENT (IPM) AS A SOIL/SUSTAINABILITY PRACTICE
+Heavy pesticide use harms beneficial insects, pollutes soil and water, and creates pest resistance over time. IPM combines multiple methods (biological, cultural, chemical only when needed) to manage pests while minimizing chemical use - protecting both crop quality and long-term farm health while lowering costs. Field studies in Asian rice cultivation showed IPM adoption led to a 64% decrease in pesticide use alongside a 14% increase in output.
+
+GENERAL ADVICE FOR FARMERS
+The combination of soil testing, crop rotation, organic matter addition, and avoiding residue burning are the most accessible, low-cost practices any farmer can adopt immediately to improve long-term soil health and farm profitability - these don't require expensive new inputs, just a shift in practice and planning.
+
+WHERE TO GET HELP
+Contact your local Krishi Vigyan Kendra (KVK) or state agricultural university for soil-specific and region-specific sustainable farming guidance.
+
+SOURCE: ICAR sustainable agriculture guidelines, Soil Health Card program documentation, state agriculture department advisories.

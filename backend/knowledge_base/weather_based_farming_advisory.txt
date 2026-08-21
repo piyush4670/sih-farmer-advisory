@@ -1,0 +1,46 @@
+TITLE: Weather-Based Farming Advisory - General Guidance
+
+WHY WEATHER MATTERS FOR FARMING DECISIONS
+Weather is one of the biggest drivers of farming outcomes and even mandi prices. Drought reduces supply and pushes prices up. Unseasonal rain at harvest damages crops and can lower quality-graded prices. A good monsoon increases sowing area and can lower prices at harvest time. Tracking weather forecasts helps decide when to sow, irrigate, spray pesticide, and sell produce.
+
+OFFICIAL WEATHER SOURCES FOR FARMERS IN INDIA
+- India Meteorological Department (IMD) provides district-level and block-level agromet advisories twice a week (Tuesday and Friday)
+- Mausam App (IMD): 7-day forecast, nowcast warnings, rainfall, temperature, wind data
+- Meghdoot App: agromet-specific advisory delivery
+- Damini App: lightning alerts - important for farmers working in open fields
+- Kisan Call Centre: 1800-180-1551 (free phone advisory including weather-based guidance)
+- Gramin Krishi Mausam Sewa (GKMS): joint IMD-ICAR program generating crop-specific advisories at district level through Agromet Field Units (AMFUs) located at State Agricultural Universities and ICAR centres
+
+SEASON-WISE WEATHER WATCH POINTS
+
+KHARIF SEASON (June-November, monsoon-dependent)
+- Sowing timing depends heavily on monsoon onset - delayed monsoon means delayed/adjusted sowing
+- Watch for excessive rain and flooding, which can damage young crops and cause waterlogging
+- Dry spells during the season can stress crops even in a Kharif year - track rainfall gaps, not just total seasonal rainfall
+
+RABI SEASON (October/November-March)
+- Watch for unseasonal rain and hailstorms during harvest time (February-March), which can damage standing wheat crop
+- Watch for frost, which particularly harms vegetables and gram (chickpea) crops - light irrigation before an expected frost night can sometimes reduce frost damage by keeping soil warmer
+- Track temperature trends closely during flowering stages of Rabi crops - unexpected heat spikes during grain filling reduce yield
+
+ZAID SEASON (March-June, summer crops)
+- Summer crops (watermelon, muskmelon, vegetables, fodder) need careful irrigation planning and protection from extreme heat
+- Higher evapotranspiration in this season means irrigation frequency often needs to increase
+
+PRACTICAL WEATHER-BASED FARMING RULES
+1. Never spray pesticide or fungicide if rain is expected within 24 hours - it washes off before it can work, wasting money and requiring re-application
+2. Avoid irrigation right before expected rainfall - check forecast first to avoid wasted water and potential waterlogging
+3. During high humidity and moderate temperature periods, disease risk (especially fungal diseases like blight) increases significantly - increase field monitoring frequency during these conditions
+4. Extreme heat during flowering stage is one of the most yield-damaging weather events for most crops - if heat wave is forecast during a crop's flowering window, light irrigation can help moderate canopy temperature
+5. Hailstorm risk is highest during pre-monsoon and late Rabi transition periods in many regions - if hail is forecast, standing crops close to harvest are at particular risk of physical damage
+
+WEATHER-DRIVEN CROP DECISION SUPPORT
+Weather forecast serves as a guiding principle for choosing which crops or varieties are best suited to a season's expected conditions. If seasonal forecast indicates below-normal or delayed monsoon, farmers may consider shorter-duration or more drought-tolerant varieties for that season.
+
+GENERAL ADVICE FOR FARMERS
+Weather-based information is most valuable when combined with local crop-stage knowledge - the same weather event (e.g., heavy rain) matters very differently depending on whether the crop is at sowing stage, flowering stage, or near harvest. Always cross-check general weather advisory with your specific crop's current growth stage.
+
+WHERE TO GET HELP
+Contact your nearest Krishi Vigyan Kendra or Agromet Field Unit (AMFU) for district-specific weather-based crop advisory, or call Kisan Call Centre: 1800-180-1551.
+
+SOURCE: India Meteorological Department (IMD) Agromet Advisory Services, Gramin Krishi Mausam Sewa (GKMS), ICAR.

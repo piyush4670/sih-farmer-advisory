@@ -1,0 +1,78 @@
+TITLE: Groundnut (Peanut) Cultivation Advisory - Pest and Disease Management
+
+IMPORTANCE
+Groundnut is one of India's most important oilseed crops, widely grown in Gujarat, Andhra Pradesh, Tamil Nadu, Karnataka, and Maharashtra. Used for edible oil, protein-rich food, and roasted/snack consumption.
+
+SOWING TIME
+- Kharif season: second fortnight of June to first fortnight of July (with monsoon onset)
+- Rabi season (as sequential crop in rice fallows, using residual moisture): last week of November to second fortnight of December
+- Where irrigation is available, rabi sowing can extend to January-February, but sowing in January under residual moisture (without irrigation) risks moisture stress and poor plant stand
+
+SOIL REQUIREMENT
+Well-drained, light sandy loam or loamy soil is best suited.
+
+LAND PREPARATION
+1. Plough deeply once with a soil-turning plough
+2. Follow with two cultivator ploughings to make soil fine and level
+3. During final ploughing, mix Quinalphos 1.5% at 25 kg/hectare into soil to protect against termites and soil insects
+
+FERTILIZER
+- General recommendation: 20 kg Nitrogen, 50 kg Phosphorus (P2O5), 30 kg Potassium (K2O) per hectare (varies by region - confirm with local soil test)
+- Gypsum application is important for better pod development
+- Apply micronutrients like zinc and boron if soil test shows deficiency
+- Apply well-decomposed farmyard manure or compost at 8-10 tonnes/hectare before sowing, incorporated immediately into soil
+- Seed inoculation with Phosphate Solubilizing Bacteria (PSB) culture (e.g., Pseudomonas striata, Bacillus polymixa) improves phosphorus availability from soil - can be mixed with Rhizobium inoculation and applied together
+
+IRRIGATION
+- Moderate irrigation needed - avoid overwatering, which causes root rot and fungal disease
+- First irrigation after sowing if rainfall is insufficient
+- Critical stages needing irrigation: flowering and pod formation stage - this is when water stress most affects final yield
+- Avoid waterlogging at all costs
+
+MAJOR PESTS AND TREATMENT
+
+1. Groundnut Leaf Miner
+- Treatment: spray Profenophos 50 EC at 2 ml/litre on 30th and 45th day after sowing
+
+2. Defoliators (leaf-eating pests, including Spodoptera)
+- Treatment: Flubendiamide 48SC at 0.075 ml/litre, or Spinosad 45 SC at 2ml/litre
+- Botanical/organic options: Pongamia oil at 3ml/litre, or Azadirachtin 3% at 3ml/litre, or Neem oil at 3ml/litre - shown effective in field trials
+- Monitor with pheromone traps for Spodoptera: 5 traps/hectare
+
+3. Aphids, Jassids, Thrips (sucking pests)
+- Apply neem cake at 500 kg/hectare as a preventive cultural practice
+- Need-based spray of Quinalphos when infestation crosses threshold
+
+4. White Grubs (soil pest)
+- Managed through spray schedule as part of community-based/area-wide approach (individual field treatment alone is less effective since grubs move between fields) - coordinate with neighboring farmers and local KVK
+
+INTERCROPPING FOR NATURAL PEST SUPPRESSION (useful low-cost strategy)
+- Pearlmillet or soybean intercrop suppresses thrips, jassids, and leaf miner
+- Castor intercrop suppresses jassids and Spodoptera
+- Pigeonpea intercrop suppresses early leaf spot, late leaf spot, and rust diseases
+- Border cropping with pearl millet also helps as a general pest barrier
+
+MAJOR DISEASES
+
+1. Leaf Spot Disease (early and late leaf spot) and Rust
+- Reduce incidence through crop rotation (groundnut with gram, wheat) and intercropping with pigeonpea
+- Use pest/disease-resistant varieties where available (e.g., Girnar 1, ICGV 87160, ICGS 37, TAG 24 among released Indian varieties)
+
+2. Collar Rot and Stem Rot
+- Avoid deep planting of seed - shallow, correctly-depth sowing reduces infection risk
+- Deep ploughing before sowing and crop rotation with gram/wheat reduces disease incidence
+- Early sowing (June) and closer plant spacing (30 cm between rows) have shown lower collar rot and root rot incidence compared to wider spacing (45-60 cm)
+
+3. Aspergillus (fungal contamination causing brown patches on cotyledons/stems)
+- Caused by Aspergillus niger and A. flavus - proper drying and storage after harvest is critical to prevent this, as it's also linked to aflatoxin contamination risk in stored groundnut
+
+HARVESTING
+Ready for harvest 100-120 days after sowing, depending on variety and growing conditions.
+
+GENERAL ADVICE
+Combining resistant varieties, correct sowing depth/spacing/timing, intercropping, and need-based (not routine) pesticide use gives the most sustainable and cost-effective pest/disease control for groundnut.
+
+WHERE TO GET HELP
+Contact ICAR-Directorate of Groundnut Research (Junagadh) or your local Krishi Vigyan Kendra for region-specific variety and treatment recommendations.
+
+SOURCE: ICAR-Directorate of Groundnut Research, AICRP-Groundnut, ICAR-NCIPM guidelines.

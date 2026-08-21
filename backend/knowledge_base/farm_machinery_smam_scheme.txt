@@ -1,0 +1,54 @@
+TITLE: Farm Machinery Access - SMAM Scheme and Custom Hiring Centres
+
+THE PROBLEM THIS SOLVES
+Over 85% of Indian farmers operate on small (1-2 hectare) or marginal (under 1 hectare) landholdings. Buying farm machinery outright is unaffordable for most - a mid-range tractor costs upwards of Rs. 7 lakh, with specialized implements like rotavators or combine harvesters adding significantly more. India's average farm power availability is just 3.045 kW/hectare, well below what's needed for efficient mechanized farming.
+
+WHAT IS SMAM
+Sub-Mission on Agricultural Mechanization (SMAM) is a centrally sponsored scheme by the Ministry of Agriculture and Farmers Welfare, launched 2014-15 and strengthened in 2021 with an allocation of over Rs. 6,000 crore through 2025-26. It provides subsidies to make farm machinery accessible to small and marginal farmers, either through direct purchase subsidy or through Custom Hiring Centres.
+
+WHAT IS A CUSTOM HIRING CENTRE (CHC)
+A CHC is a farm machinery rental hub where farmers can hire equipment - tractors, rotavators, combine harvesters, paddy transplanters, seed drills, sprayers, threshers, laser land levellers, zero-till seed drills, drone sprayers, and more - on an hourly, daily, or per-acre basis, paying only for actual use. This eliminates the need to buy expensive machinery outright.
+
+BENEFITS OF USING A CHC (for the farmer hiring equipment)
+- No large upfront investment needed
+- No responsibility for machinery maintenance, storage, or repair costs
+- Training/instructions provided, or an experienced operator sent along with the machine
+- Studies show CHC-based mechanization can reduce cultivation costs by 15-25% and increase yields by 10-30% through more timely farm operations (getting sowing/harvesting done within the correct window)
+- A single CHC typically serves 4-5 surrounding villages
+
+HOW TO FIND/USE A NEARBY CHC
+- Over 75,000 CHCs now operate across India
+- Digital booking platforms exist in several states - e.g., "Kisan Rath" in Telangana, "Tractor Seva" in Madhya Pradesh, and a central Custom Hiring App - check if your state has one for easy booking
+- Contact your local Krishi Vigyan Kendra or state agriculture department to locate the nearest CHC if no app is available in your area
+
+SUBSIDY STRUCTURE FOR SETTING UP A CHC (relevant if farmer/FPO/cooperative wants to start one)
+- General category beneficiaries: 40-50% financial assistance on machinery cost
+- SC/ST farmers, women, small and marginal farmers, North-East region beneficiaries: 50% or higher
+- Farm Machinery Banks (FMBs): up to 80% subsidy, capped at Rs. 8 lakh
+- North-East region (NER) beneficiaries: up to 100% subsidy in some cases (subject to conditions)
+- CHCs can be set up by cooperative societies, Farmer Producer Organizations (FPOs), Self-Help Groups (SHGs), village-level entrepreneurs, or agri-graduates
+
+SUBSIDY FOR DIRECT TRACTOR/MACHINERY PURCHASE (individual farmers)
+- General category farmers: 40% subsidy on tractor/machinery purchase cost
+- Higher rates apply for CHC/FMB setup (see above)
+- State governments often add their own top-up subsidy - for example, West Bengal's Financial Support Scheme to Farm Mechanisation (FSSM) offers 50-60% subsidy on power equipment up to Rs. 3 lakh contribution for small/marginal farmers
+- Small and marginal farmers (about 86% of India's farming community) are prioritized for higher subsidy amounts and faster approval
+
+SPECIAL SCHEME: CROP RESIDUE MANAGEMENT (CRM) - FOR STUBBLE-BURNING PREVENTION
+Launched 2018, offers 80% subsidy to CHCs specifically for procuring Happy Seeders and Super Seeders - machines that let farmers sow the next crop (e.g., wheat after rice) directly into standing stubble without burning it. This helps prevent crop residue burning, which damages soil health and air quality (a major issue especially in North India post-paddy-harvest season).
+
+ELIGIBILITY DOCUMENTS NEEDED
+- Valid land records (own or leased)
+- Aadhaar-linked bank account
+- Indian residency proof
+
+HOW TO APPLY
+Applications are typically processed through the state agriculture department's official portal (varies by state) or through the central Custom Hiring App. Contact your local Krishi Vigyan Kendra for state-specific application guidance, as the exact process and portal differ by state.
+
+GENERAL ADVICE FOR FARMERS
+For most small and marginal farmers, hiring machinery through a CHC (rather than buying) makes far more financial sense, since it avoids large upfront costs and ongoing maintenance responsibility while still providing access to modern equipment for timely farm operations.
+
+WHERE TO GET HELP
+Contact your local Krishi Vigyan Kendra or state Agriculture Engineering Directorate for the nearest CHC location and current subsidy application process.
+
+SOURCE: Sub-Mission on Agricultural Mechanization (SMAM), Ministry of Agriculture and Farmers Welfare, state agriculture department guidelines.
