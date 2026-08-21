@@ -21,3 +21,4 @@ except requests.exceptions.Timeout:
 except requests.exceptions.ConnectionError as e:
     print("Connection error — network or server issue:", e)
 except requests.exceptions.RequestException as e:
+    print("Request failed:", e)
