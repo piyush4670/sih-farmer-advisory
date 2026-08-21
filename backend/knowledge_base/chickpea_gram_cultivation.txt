@@ -1,0 +1,58 @@
+TITLE: Chickpea (Gram/Chana) Cultivation Advisory - Pod Borer Management
+
+SOWING TIME
+- Rabi season crop: sow October-November
+- Optimal soil temperature: 20-25°C
+- Late sowing (December onwards) significantly reduces yield due to shortened vegetative growth period and heat stress during pod filling
+- Sowing depth: 5-6 cm on black cotton soil, 7-8 cm on lighter soils
+
+FERTILIZER (chickpea is a legume - lower nitrogen need than cereals)
+- Recommended NPK ratio: approximately 20 kg Nitrogen, 40-60 kg Phosphorus, 20 kg Potassium per hectare, plus 20 kg Sulphur
+- Being a legume, only a small starter dose of Nitrogen is needed for the first 20-25 days, before root nodules (which fix nitrogen naturally) fully develop
+- Seed treatment before sowing: Carbendazim at 1.5g/kg seed, or Trichoderma viride at 8g/kg seed - protects against seed and soil-borne diseases
+
+IRRIGATION (mostly grown as rainfed crop - only 2 irrigations needed if irrigation available)
+1. Pre-flowering/branching stage: 40-45 days after sowing
+2. Pod/grain development stage: 70-75 days after sowing
+WARNING: Never irrigate heavily during flowering stage - causes massive flower drop and yield loss.
+
+If irrigation is limited or sowing is delayed, spray 2% urea solution at flowering stage to promote pod development and improve grain size. Avoid excess nitrogen during flowering - causes excessive vegetative growth and flower drop instead of pods.
+
+WEED MANAGEMENT
+Two hand weedings recommended: first at 20-25 days after sowing, second at around 40-45 days.
+
+MAJOR PEST: GRAM POD BORER (Helicoverpa armigera) - most serious pest of chickpea
+- Damage: larva makes pods hollow, directly reducing yield and grain quality
+- This is the most economically damaging pest for chickpea across India
+
+INTEGRATED PEST MANAGEMENT FOR POD BORER
+1. Sow at the right time and correct spacing - later sowing generally shows increased pest incidence
+2. Deep ploughing in summer before sowing - exposes insect pupae to birds and sun, reducing next season's pest population
+3. Crop rotation - grow cereal or millet crops (sorghum, maize) in fields with high pod borer history
+4. Intercropping - grow linseed, coriander, or mustard in rows around/within the field - attracts predatory insects that help control pod borer naturally
+5. Install bird perches: 50-60 per hectare, or mix in a small amount of sorghum seed (100g/hectare) when sowing - encourages birds to perch and eat larvae
+6. Install pheromone traps: 4-5 per acre for monitoring
+7. Biological control: apply NPV (Nuclear Polyhedrosis Virus) - a virus specific to Helicoverpa - at 250 LE/hectare (500 caterpillar-equivalent extract in 500 litres water/hectare); most effective when larvae are in first/second growth stage
+8. Chemical control (only when infestation is high, after trying above measures): spray Acephate 75% SP at 2g/litre, or Indoxacarb 14.5% SC at 1ml/litre
+
+OTHER PESTS
+- Cutworm (Agrotis ipsilon): cuts seedlings at ground level - control with bird perches (50-60/field) and Chlorpyrifos 20% EC soil application if termites/cutworm suspected
+- Semilooper: feeds on leaves and pods - control with organic Bt (Bacillus thuringiensis) spray
+
+MAJOR DISEASES
+- Wilt Disease (Fusarium oxysporum) - the most important fungal disease of chickpea; manage through deep sowing and resistant varieties (e.g., Avrodhi)
+- Ascochyta Blight (Ascochyta rabiei) - fungal disease; use certified disease-free seed and resistant varieties where available
+
+HARVESTING
+Ready to harvest when leaves dry and fall off, pods/stems turn straw-brown, and seeds become hard enough to crack sharply when chewed.
+
+TYPICAL YIELD
+- Desi Chana: 1.5-2.0 tonnes/hectare
+- Kabuli Chana: 2.5-3.5 tonnes/hectare (with better soil preparation and moisture management)
+
+GENERAL ADVICE
+A combination of cultural practices (timing, rotation, intercropping, bird perches) plus biological control (NPV) is more sustainable and effective long-term than relying only on chemical pesticides, and helps prevent pest resistance development.
+
+WHERE TO GET HELP
+Contact your local Krishi Vigyan Kendra (KVK) for current variety recommendations and region-specific pest pressure guidance.
+

@@ -1,0 +1,54 @@
+TITLE: e-NAM (National Agriculture Market) - Farmer Advisory
+
+WHAT IS e-NAM
+e-NAM (Electronic National Agriculture Market) is a pan-India electronic trading portal launched on 14 April 2016, completely funded by the Central Government and implemented by Small Farmers Agribusiness Consortium (SFAC). It connects existing APMC (Agriculture Produce Marketing Committee) mandis across the country through a single online platform for agricultural commodity trading.
+
+WHY IT MATTERS FOR FARMERS
+Before e-NAM, farmers could only sell to local traders at their nearest mandi, often leading to low prices, limited competition, and no way to check real market rates elsewhere. e-NAM opens up the market so farmers can potentially get bids from buyers across the country, not just their local area, leading to more competitive and transparent pricing.
+
+CURRENT SCALE (as of March 2026)
+- 1,656 mandis connected, spanning 23 states and 4 Union Territories
+- Over 1.80 crore farmers, 2.73 lakh traders, and 4,724 Farmer-Producer Organizations (FPOs) registered
+- Since 2016, the platform has enabled trading of 13.25 crore metric tonnes of commodities, worth a total of Rs. 4.84 lakh crore
+
+HOW IT WORKS (single-window system)
+1. Digital gate entry - farmer's produce is registered when it arrives at the mandi
+2. Lot creation with unique identifier for the produce batch
+3. Quality assaying (testing) - transparent quality check recorded on the platform
+4. Competitive online bidding - buyers from connected mandis across states can bid
+5. Real-time bid tracking - farmer can see bids as they come in
+6. Price discovery - transparent, competitive pricing instead of a single local trader's offer
+7. Direct electronic payment to the farmer's bank account
+
+ELIGIBILITY
+- Any farmer with agricultural land in a state connected to e-NAM
+- Land should ideally be recorded in the applicant's name (complete mutation first if not)
+- Note: income-tax payers and government employees are typically excluded under many farmer schemes, including this one
+
+DOCUMENTS REQUIRED
+- Aadhaar card
+- Mobile number linked to Aadhaar
+- Bank account passbook (Aadhaar-linked, for direct payment)
+- Land records (optional but recommended for verification)
+- APMC/Mandi registration (if already registered at a local mandi)
+
+HOW TO REGISTER
+1. Visit official website enam.gov.in, or download the e-NAM mobile app, or visit your local e-NAM linked mandi
+2. Click "Farmer Registration"
+3. Fill in Aadhaar number, mobile number, state, nearest mandi details
+4. Fill in bank account details (account number and IFSC code)
+5. Upload required documents
+6. Submit
+
+Registration is completely free.
+
+HOW TO CHECK STATUS
+Visit enam.gov.in and use your registration number or Aadhaar to check status, or call the Kisan Call Centre toll-free: 1800-180-1551 (available in regional languages).
+
+GOVERNMENT SUPPORT FOR MANDI INFRASTRUCTURE
+The government provides financial assistance of up to Rs. 75 lakh per mandi to support infrastructure development, helping integrate more mandis into the digital ecosystem and improving overall market efficiency.
+
+IMPORTANT NOTE
+All e-NAM services are free for farmers. Never pay any agent or middleman for registration or trading access.
+
+SOURCE: Official e-NAM Portal (enam.gov.in), Ministry of Agriculture and Farmers Welfare, Small Farmers Agribusiness Consortium (SFAC).

@@ -1,0 +1,50 @@
+TITLE: Potato Cultivation Advisory - Late Blight Management
+
+IMPORTANCE OF POTATO IN INDIAN AGRICULTURE
+Potato contributes about 2.48% of total agricultural output from just 1.07% of total cropped area - roughly 4 times more economic contribution per unit area than wheat or rice. Major growing states: West Bengal, Uttar Pradesh, Bihar, Gujarat.
+
+PLANTING TIME AND METHOD
+Tubers are typically planted on top of ridges in the first week of October (varies by region - hill areas and plains have different windows). Maintain spacing of approximately 50 cm between rows and 15 cm between plants.
+
+FERTILIZER DOSE (general guideline - confirm with local soil test)
+- Nitrogen (N): 150 kg/hectare
+- Phosphorus (P): 100 kg/hectare
+- Potassium (K): 100 kg/hectare
+- Lime: 500 kg/hectare (especially useful in acidic hill soils)
+
+TIMING OF FERTILIZER APPLICATION
+- Apply half the Nitrogen dose along with full Phosphorus and Potassium as basal dose at time of sowing
+- Apply remaining half of Nitrogen as top dressing at 30 days after sowing
+
+EARTHING UP
+Perform earthing up (mounding soil around the base of plants) twice during the season - typically at 25 and 40 days after sowing. This supports tuber development and protects developing tubers from sunlight (which causes greening).
+
+IRRIGATION
+Give light irrigation shortly after planting (around 6 days after sowing) to support early growth, then continue as per soil moisture needs.
+
+LATE BLIGHT (Phytophthora infestans) - MOST DESTRUCTIVE POTATO DISEASE
+- This is a fungus-like pathogen that spreads very rapidly and can infect the crop at any growth stage
+- Symptoms appear on leaves, petiole, stem, and tubers - can cause complete defoliation and severe yield loss if not managed in time
+- Spreads fastest in cool, humid weather conditions
+
+FUNGICIDE SPRAY SCHEDULE (integrated approach shown effective in field trials)
+- First spray: Mancozeb 75% at 0.25%, around 35 days after sowing
+- Second spray: Cymoxanil 8% + Mancozeb 64% combination at 0.25%, around 42 days after sowing
+- Additional sprays with Mandipropamid 23.4% SC at 0.1% (35 & 55 days after sowing) or Ametoctradin + Dimethomorph combination at 0.1% (45 & 65 days after sowing) have shown strong results in reducing disease incidence
+- Always follow current CIBRC-approved fungicide list and local KVK spray schedule, as recommendations are refined based on regional weather patterns each season
+
+INTEGRATED LATE BLIGHT MANAGEMENT (combine all of these for best results)
+1. Remove sources of infection - eliminate cull potatoes (leftover tubers from previous season) and volunteer plants before new planting
+2. Plant only healthy, disease-free seed tubers from a reliable source
+3. Use resistant potato varieties where available (e.g., Kufri Himalini is a late-blight resistant variety suited for hill cultivation)
+4. Scout the field regularly, especially in locations where the disease typically appears first (low-lying, shaded, or high-humidity spots)
+5. Combine fungicide spraying with these cultural practices - relying on chemical spray alone is less effective and increases cost and environmental impact
+6. Weather-based forecasting (tracking humidity and temperature) can help time sprays more precisely - ask your local KVK if this advisory service is available in your area
+
+GENERAL ADVICE FOR FARMERS
+Potato late blight can spread extremely fast once conditions favor it (cool, humid weather) - early detection through regular field scouting is more valuable than waiting for visible large-scale damage before acting.
+
+WHERE TO GET HELP
+Contact ICAR-Central Potato Research Institute (CPRI), Shimla, or your local Krishi Vigyan Kendra for region-specific late blight forecasting and current fungicide recommendations.
+
+SOURCE: ICAR-Central Potato Research Institute (Shimla), ICAR-National Research Centre for Integrated Pest Management field studies.

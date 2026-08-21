@@ -1,0 +1,43 @@
+TITLE: Maize Cultivation Advisory - Fall Armyworm Management
+
+FALL ARMYWORM (FAW) - MAJOR INVASIVE PEST
+- Scientific name: Spodoptera frugiperda
+- This is a relatively new invasive pest in India, native to the USA, first reported in India (Karnataka) around 2018 and spread rapidly to many states
+- Can cause up to 100% yield loss if not managed, attacking from seedling stage right through to cob formation
+- Also affects sorghum, rice, and sugarcane - not just maize
+- IMPORTANT: If FAW is suspected in a new area or crop, report to local agriculture officer/KVK - early detection helps contain spread
+
+IDENTIFICATION AND MONITORING
+- Establish pheromone traps at least 2 weeks before planting to monitor moth activity early
+- Recommended trap density: 4 traps per acre using ICAR-NBAIR lures
+- Regular field monitoring is essential - scout plants regularly, especially checking the whorl (central leaf funnel) of young maize plants where larvae hide and feed
+
+CULTURAL PRACTICES TO REDUCE FAW RISK
+1. Avoid late planting - late-planted maize sees significantly higher FAW infestation and ear damage than early-planted crop
+2. Cultivate maize hybrids with tight husk cover - reduces ear damage from FAW
+3. Practice clean cultivation and balanced fertilizer use (excess nitrogen makes plants more attractive to pest)
+4. Intercrop or rotate maize with non-host crops like sunflower or beans to reduce pest buildup
+5. Plant trap crops: sow 3-4 rows of Napier grass or similar around the maize field; when trap crop shows FAW damage symptoms, spray it with 5% Neem Seed Kernel Extract (NSKE) or Azadirachtin 1500 ppm
+
+MONITORING-BASED CONTROL APPROACH
+1. Install bird perches: 10 per acre - encourages natural predation by birds
+2. Seed treatment before sowing: Chlorantraniliprole 50 FS at 5.6 ml/kg seed - provides early protection
+3. Use pheromone trap catch data to decide when chemical spraying is actually needed (rather than spraying on a fixed schedule)
+4. Train yourself/workers to identify and manually collect and destroy egg masses on leaves - this significantly reduces future larval population
+
+CHEMICAL CONTROL (when infestation is confirmed and significant)
+IARI recommendation: mix 70-80 ml Chlorantraniliprole in 200 litres of water and spray evenly per acre. Ensure spray thoroughly covers both upper and lower leaf surfaces, and especially the whorl area where larvae hide - this is critical for effective control since larvae are often protected inside the leaf whorl.
+
+BIOLOGICAL CONTROL OPTIONS
+Natural enemies of FAW in India include various parasitoids (e.g., Telenomus remus, Chelonus formosanus) and entomopathogens (fungi, bacteria, viruses, nematodes). These can be part of a sustainable IPM approach, especially valuable for organic maize production. Selective insecticides (rather than broad-spectrum ones) help protect these natural enemies, allowing them to keep suppressing pest population over time.
+
+WHY IPM WORKS BETTER
+Field studies show IPM-based fall armyworm management increases maize yield by roughly 12-25% compared to conventional farmer practice, along with better net economic returns and reduced pesticide costs. Indiscriminate high-dosage pesticide use, in contrast, has led to insect resurgence problems in some areas.
+
+GENERAL ADVICE FOR FARMERS
+Early detection through regular field scouting (especially checking the whorl) combined with timely, targeted spraying works far better than reactive spraying after heavy visible damage has already occurred. Avoid late planting wherever possible, as this is one of the simplest and most effective preventive steps.
+
+WHERE TO GET HELP
+Contact ICAR-Indian Institute of Maize Research (IIMR, Ludhiana), or your local Krishi Vigyan Kendra for current region-specific FAW advisory and approved treatment options.
+
+SOURCE: ICAR-IIMR (Indian Institute of Maize Research), ICAR-IARI (Indian Agricultural Research Institute) advisories, ICAR-NBAIR.

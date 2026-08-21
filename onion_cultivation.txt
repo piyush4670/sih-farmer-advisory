@@ -1,0 +1,55 @@
+TITLE: Onion Cultivation Advisory - Thrips and Purple Blotch Management
+
+LAND PREPARATION
+Plough the field 2-3 times to create fine tilth. Incorporate 20-25 tonnes of well-decomposed farmyard manure (FYM) or compost per hectare to boost organic carbon and soil moisture retention.
+
+GROWTH DURATION
+Matures in 90-120 days after transplanting, depending on variety and season.
+
+FERTILIZER
+Main fertilizers: urea (nitrogen), DAP (phosphorus), MOP (potash). Timing and quantity should follow soil test recommendations - NDVI/remote sensing and local agriculture department advisories can help optimize timing further, but soil testing is the most accessible basis for small farmers.
+
+YIELD EXPECTATION
+Typical yield range: 250-300 quintals/hectare (roughly 100-130 quintals/acre), varying by variety, soil, and fertilizer management. Progressive, well-managed fields can reach up to 400 quintals/hectare.
+
+MAJOR PESTS AND TREATMENT
+
+1. Thrips (Thrips tabaci) - the most important onion pest
+- Identification: small yellowish insects that suck sap from leaves, causing silver-colored streaks or brown spots on leaves
+- More severe in high-humidity conditions and hot, dry weather
+- Treatment: spray Azadirachtin 1% at 2 ml/litre (40 days after planting as a preventive), or Dimethoate at 2 ml/litre on a need basis, or neem-based oil formulations
+- Note: older recommendations mention Monocrotophos or Methyl Demeton - these are being phased out in favor of safer alternatives; confirm currently approved options with your local KVK
+
+2. Onion Fly (Delia antiqua)
+- Identification: small grey fly resembling a house fly; lays eggs in soil around the plant; attack causes lower leaves to yellow
+- Treatment: spray with 0.1% Malathion
+
+DISEASES AND TREATMENT
+
+1. Purple Blotch (Alternaria porri) - major onion disease
+- Symptoms: irregular purple lesions on leaves, reducing photosynthesis and bulb size; most favorable temperature for disease development is 28-30°C
+- Treatment: need-based spray of Tebuconazole at 1.5 ml/litre, or Mancozeb at 2g/litre, or Zineb at 2g/litre
+- Organic/bio-control option: foliar spray of Trichoderma harzianum at 1%, or neem-based bio-pesticide (neembicidine) at 0.3% - shown to meaningfully reduce disease severity in field trials
+- Prevention: avoid waterlogging and ensure good air circulation in the field
+
+2. Stemphylium Blight
+- Often occurs alongside purple blotch, compounding damage
+- Similar management approach: fungicide spray plus good field sanitation
+- Primary disease spores overwinter in weeds like yellow nutsedge and Datura - keeping field borders weed-free reduces disease carryover between seasons
+
+PRE-HARVEST TIP FOR STORAGE LIFE
+Spraying Cycocel at 200 ppm combined with Carbendazim at 1000 ppm, 30 days before harvest, can help extend the shelf life of harvested onion bulbs.
+
+POST-HARVEST HANDLING
+Clean and dry harvested bulbs in shade for 4 days before storage. Proper curing and dry storage conditions are essential to prevent storage rot, which is a common cause of post-harvest loss for onion farmers.
+
+COMMON CHALLENGES FOR ONION FARMERS IN INDIA
+- Price volatility due to supply-demand imbalances (onion prices are historically very unstable in Indian markets)
+- Pest and disease pressure (thrips, purple blotch, storage rot)
+- Climate variation - excessive rain or drought can significantly damage the crop
+- Lack of proper cold storage leading to post-harvest losses
+
+WHERE TO GET HELP
+Contact your local Krishi Vigyan Kendra (KVK) or ICAR-DOGR (Directorate of Onion and Garlic Research, Rajgurunagar, Pune) for region-specific variety recommendations and current pest/disease treatment guidance.
+
+SOURCE: ICAR-DOGR (Directorate of Onion and Garlic Research), state horticulture department guidelines.
