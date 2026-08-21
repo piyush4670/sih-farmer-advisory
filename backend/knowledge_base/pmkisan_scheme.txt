@@ -1,0 +1,42 @@
+TITLE: PM-KISAN Samman Nidhi Yojana - Farmer Advisory
+
+WHAT IS PM-KISAN
+PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) is a central government scheme launched in February 2019 that gives direct financial support to eligible farmer families. It is fully funded by the Government of India and implemented by the Ministry of Agriculture and Farmers Welfare.
+
+BENEFIT AMOUNT
+Eligible farmer families receive Rs. 6,000 per year, paid in three equal installments of Rs. 2,000 each. Payments are made directly to the farmer's bank account through Direct Benefit Transfer (DBT).
+
+INSTALLMENT SCHEDULE
+Payments are released in three four-month cycles each year:
+- April to July
+- August to November
+- December to March
+Exact release dates are announced by the government shortly before each installment.
+
+ELIGIBILITY
+A "farmer family" is defined as husband, wife, and minor children who together own cultivable land recorded in their name in official state land records. The land ownership must be properly documented with the state government.
+
+Certain categories are excluded from the scheme, including institutional landholders and higher-income professionals (exact exclusion categories should be verified on the official portal, as rules can be updated).
+
+MANDATORY REQUIREMENTS
+1. Valid Aadhaar card
+2. Bank account linked/seeded with Aadhaar
+3. Completed e-KYC verification - without this, installments are held back even if otherwise eligible
+
+HOW TO APPLY OR CHECK STATUS
+- Official portal: pmkisan.gov.in
+- Can also apply through Common Service Centres (CSC)
+- e-KYC can be done via OTP on the portal (free) or biometric verification at CSC centres (small fee applies)
+- To check beneficiary status: visit the portal, go to "Beneficiary List," select state, district, sub-district, block, and village
+
+FIXING COMMON ISSUES
+- Wrong name, Aadhaar, or bank details: use "Updation of Self Registered Farmers" option in Farmers Corner on the portal
+- Unresolved issues: contact PM-Kisan helpline at 155261 or 011-24300606, or email pmkisan-ict@gov.in
+
+IMPORTANT NOTE FOR FARMERS
+All services on the official PM-KISAN portal are free. Never pay any agent or third party for registration, e-KYC, or status checks.
+
+RECENT UPDATE
+The scheme has been extended by the Union Cabinet for four more years, from 2026-27 to 2030-31, with a total outlay of Rs. 3.15 lakh crore, ensuring continuity of support for farmers.
+
+SOURCE: Official PM-KISAN Portal (pmkisan.gov.in), Ministry of Agriculture and Farmers Welfare, Government of India.

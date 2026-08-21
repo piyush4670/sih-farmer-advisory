@@ -1,0 +1,61 @@
+TITLE: Wheat Cultivation Advisory - Package of Practices
+
+SOWING TIME (varies by zone)
+- North Western Plain Zone (Punjab, Haryana, Delhi, western UP): 1-15 November for timely sowing
+- North Eastern Plain Zone: 10-20 November
+- Central Zone: 10-20 November
+- Peninsular Zone: 1-15 November
+- Late sowing: up to third week of December (yields will be lower than timely sown crop)
+- Best sowing temperature: around 22°C
+
+SEED RATE AND LAND PREPARATION
+- Seed rate: approximately 100 kg/hectare (varies by variety)
+- Apply 2-3 tonnes of farmyard manure per hectare, 5-6 weeks before sowing
+- Prepare a well-pulverized but compact seed bed with 3-4 ploughings
+- For irrigated crop: give a pre-sowing irrigation (palewa), then reduce number of ploughings
+- Maintain 20 cm row spacing for timely sowing, 18 cm for late sowing
+- Can use Zero Till Drill or Happy Seeder to sow directly into rice stubble (avoids stubble burning)
+
+FERTILIZER DOSE (general recommendation - always prefer soil test-based dosing via Soil Health Card)
+For irrigated, timely-sown wheat:
+- Nitrogen (N): 120 kg/hectare
+- Phosphorus (P2O5): 60 kg/hectare
+- Potash (K2O): 40 kg/hectare
+
+For late-sown irrigated wheat (reduced dose):
+- Nitrogen: 60-80 kg/hectare
+- Phosphorus: 30-40 kg/hectare
+- Potash: 20-25 kg/hectare
+
+TIMING OF FERTILIZER APPLICATION
+- Apply full dose of phosphorus and potash at the time of sowing (basal application)
+- Apply 1/3 of nitrogen at sowing
+- Apply remaining nitrogen in split doses: at first irrigation (Crown Root Initiation stage, 20-25 days after sowing) and second irrigation (tillering stage, 40-45 days after sowing)
+- Complete all nitrogen application within 40-45 days after sowing
+- If crop shows yellowing, do not apply excess nitrogen - get soil tested first
+
+IRRIGATION SCHEDULE (critical growth stages)
+1. First irrigation: 20-25 days after sowing (Crown Root Initiation - most critical stage, water stress here severely reduces yield)
+2. Second irrigation: 40-45 days after sowing (tillering stage - determines number of grain-bearing spikes)
+3. Third irrigation: 60-65 days after sowing (late jointing/stem elongation stage)
+4. Fourth irrigation: 85-90 days after sowing (flowering stage - moisture stress here causes poor pollination)
+5. Fifth irrigation: 110-115 days after sowing (dough/grain filling stage)
+Avoid irrigation if rain is forecast. Furrow-irrigated raised bed method saves 30-40% water compared to flat-bed sowing.
+
+WEED MANAGEMENT
+- General weeding: 1.5 to 2 months after sowing
+- For broad leaf weeds: spray 2,4-D at 500 ml/acre, or metsulfuron 20 WP at 8 g/acre, or carfentrazone 40 DF at 20 g/acre
+- For narrow and broad leaf weeds together: use Sulfosulfuron 75 WG at 13.5 g/acre before first irrigation or 10-15 days after
+- For multi-herbicide resistant Phalaris minor (Gulli Danda/Kanaki weed): consult local Krishi Vigyan Kendra for current recommended herbicide, as resistance patterns vary by region
+
+DISEASE WATCH
+- Wheat rust: farmers with early-sown crop (October) near poplar trees should watch closely, as rust can start in these conditions first
+- Monitor crop regularly, especially in humid/foggy weather
+
+NUTRIENT DEFICIENCY NOTE
+Many rice-wheat system soils are deficient in zinc, iron, copper, manganese, molybdenum, boron, and sulphur. If deficiency symptoms appear (yellowing, stunted growth), apply zinc sulphate or gypsum as corrective measure - spray on a clear, bright sunny day for best absorption.
+
+GENERAL ADVICE FOR FARMERS
+Always prefer soil-test based fertilizer recommendations over general guidelines. Get your free Soil Health Card done to know your exact soil nutrient status. For pest/disease/herbicide recommendations, always verify current guidance with your local Krishi Vigyan Kendra (KVK), as recommendations can change based on resistance patterns and new research.
+
+SOURCE: ICAR-Indian Institute of Wheat and Barley Research (Karnal), state agriculture department package of practices.

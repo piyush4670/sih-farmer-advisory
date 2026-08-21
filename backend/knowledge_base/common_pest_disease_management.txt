@@ -1,0 +1,56 @@
+TITLE: Common Crop Pests and Diseases - Identification and IPM Advisory
+
+HOW TO TELL PEST DAMAGE FROM DISEASE DAMAGE
+- Pests (insects, mites): usually visible on the plant, damage shows as chewing marks, holes, webbing, or sap-sucking symptoms
+- Diseases (fungal, bacterial, viral): typically show as spots, blight, wilting, rusts, or powdery mildew, with no visible insect present
+- Early symptoms can look similar, so inspect closely (check underside of leaves, new growth) before deciding treatment
+
+APHIDS
+- Identification: small insects that cluster on young shoots and undersides of leaves
+- Damage: weaken the plant, cause sticky honeydew secretion, can transmit plant viruses
+- Common on: vegetables, cotton, wheat, and many other crops
+
+WHITEFLY
+- Identification: tiny white, moth-like insects found in clusters on leaf undersides; fly up in a cloud when the plant is disturbed
+- Damage: suck plant sap causing yellowing, mottling, and stunting; produce honeydew leading to sooty mold (reduces photosynthesis); major vector for plant viruses
+- Common on: cotton, vegetables (tomato, okra, chilli), pulses
+
+GENERAL IPM APPROACH FOR SUCKING PESTS (aphids, whitefly, jassids, thrips)
+1. Start with healthy seed and clean field preparation
+2. Monitor plants regularly - inspect at least twice a week during early growth stage when pests typically become active, checking undersides of leaves
+3. Use yellow sticky traps to monitor and reduce pest population
+4. Remove weeds around the field, which often host these pests
+5. Encourage natural enemies (ladybird beetles, lacewings) - avoid unnecessary spraying that kills beneficial insects
+6. Use bio-fertilizers and organic/neem-based options first when pest levels are low
+7. Apply recommended chemical insecticides only when infestation becomes severe (crosses economic threshold) - not as a routine preventive measure
+8. Rotate between different chemical groups (avoid using the same mode-of-action repeatedly) - this slows down pest resistance development, which is a growing problem in India
+
+WHY NOT TO OVERUSE PESTICIDES
+Repeated use of insecticides/fungicides from the same chemical group leads to resistance - already well documented in India for Pink Bollworm against Bt cotton, and for Helicoverpa (gram pod borer) against pyrethroids. Overuse also kills beneficial insects that would otherwise help control pests naturally, and increases costs for farmers without long-term benefit.
+
+MAJOR PESTS TO WATCH BY CROP (consult local KVK for current treatment as recommendations evolve)
+- Cotton: Pink Bollworm
+- Maize: Fall Armyworm (relatively new, spreading pest - report to local agriculture officer if suspected)
+- Rice: Yellow Stem Borer, Brown Planthopper (see rice advisory file for stem borer treatment)
+- Wheat: Yellow Rust (disease, not pest - watch during humid/foggy weather, especially in early-sown crops)
+- Potato: Late Blight (disease - forecasting available through ICAR-Central Potato Research Institute)
+- Tomato/vegetables: Tuta absoluta (leaf miner pest), aphids, whitefly
+
+BIOLOGICAL CONTROL OPTIONS
+ICAR research institutes produce and promote biological control agents as safer alternatives to chemical pesticides:
+- Predators: Chrysoperla (green lacewing)
+- Parasitoids: Bracon species
+- Microbial agents: Trichoderma (effective against soil-borne fungal diseases), Beauveria bassiana and other entomopathogenic fungi (effective against aphids and whitefly)
+These are increasingly available through state biocontrol laboratories and can be a part of a farmer's IPM strategy.
+
+IMPORTANT SAFETY NOTE
+All pesticide use must follow the current CIBRC (Central Insecticides Board & Registration Committee) approved label, correct dose, and pre-harvest interval (the minimum number of days required between last spray and harvest, to keep produce safe for consumption). Always read and follow product label instructions.
+
+WHERE TO GET HELP
+- Report a suspected new or unusual pest outbreak, or get identification help: contact your local Krishi Vigyan Kendra (KVK) or call the Kisan Call Centre toll-free: 1800-180-1551
+- Relevant ICAR institutes for reference: ICAR-NCIPM (integrated pest management, New Delhi), ICAR-IIRR (rice pests, Hyderabad), ICAR-IIHR (horticultural pests, Bengaluru), ICAR-IIWBR (wheat rust, Karnal), ICAR-CPRI (potato late blight, Shimla)
+
+DISCLAIMER
+This is a general quick-reference guide and is not a substitute for local advice from your Krishi Vigyan Kendra or state agriculture department, since exact treatment recommendations vary by region, resistance patterns, and season.
+
+SOURCE: ICAR-NCIPM, ICAR-NBAIR (National Bureau of Agricultural Insect Resources), state IPM guidelines.

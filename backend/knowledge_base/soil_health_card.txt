@@ -1,0 +1,31 @@
+TITLE: Soil Health Card Scheme - Farmer Advisory
+
+WHAT IS SOIL HEALTH CARD (SHC)
+A government scheme that provides farmers with free soil testing and a personalized report on their soil's nutrient status, along with recommendations on which fertilizers to use and in what quantity. Available across all 28 states and 8 union territories.
+
+WHO CAN APPLY
+- Small, marginal, and tenant farmers, or sharecroppers
+- Any cultivable landholding, no minimum size required
+- Documents needed: Aadhaar, land records (Khasra/Khatauni), PM-KISAN ID (optional)
+
+BENEFITS
+- Higher yields: 10-15% yield boost through optimized fertilizer use
+- Cost savings: reduces fertilizer costs by 20-30% (roughly Rs. 2,000/hectare) by avoiding over-fertilization
+- Guides crop selection based on soil condition (e.g., recommending pulses in low-nitrogen soil)
+- No repayment needed - this is a free direct support service, not a loan
+
+HOW TO APPLY
+1. Visit official portal: soilhealth.dac.gov.in
+2. Register using Aadhaar number and mobile number (OTP verification)
+3. Fill in land details (Khasra/Khatauni) and bank details
+4. Upload required documents
+5. Soil sample is collected and tested; report delivered digitally or via CSC
+
+CHECKING STATUS
+- Check status via the official portal using registration number or Aadhaar
+- Or call the Kisan Call Centre: 1800-180-1551
+
+IMPORTANT
+This is 100% free. No fees should be paid to any agent for registration or soil testing.
+
+SOURCE: Official Soil Health Card Portal (soilhealth.dac.gov.in), Department of Agriculture and Farmers Welfare, Government of India.

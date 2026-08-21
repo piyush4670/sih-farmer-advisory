@@ -1,0 +1,61 @@
+TITLE: Rice (Paddy) Cultivation Advisory - Package of Practices
+
+SOWING/TRANSPLANTING TIME
+- Best sowing window in India: late May to early June, depending on region and monsoon arrival
+- Nursery seedlings are ready for transplanting 25-30 days after sowing (or when seedlings are 15-21 days old / 25-30 cm long, depending on method)
+- In high altitude areas (above 1300m), transplanting should be completed by 15th June, preferably first week of June, to avoid low temperature during flowering
+
+SOIL AND WATER REQUIREMENTS
+- Best soil: clay loam with good water-holding capacity and proper drainage
+- Ideal soil pH: 5.5 to 7.0
+- Total water requirement: 1,200-1,500 mm during the entire growing season
+
+NURSERY PREPARATION
+- Nursery area needed: about 1/10 of the area to be transplanted (for conventional method)
+- Treat seeds before sowing: soak in water for 8 hours, then treat with Trichoderma dust formulation at 10g/kg of seed (helps prevent seed-borne diseases)
+- In zinc-deficient soil, apply zinc sulphate to the nursery as a basal dose
+- Irrigate nursery regularly - insufficient moisture damages seedlings
+
+FERTILIZER DOSE (general guideline - always prefer soil test-based recommendation)
+Common recommended dose: approximately 130 kg/hectare Nitrogen, 50 kg/hectare Phosphorus, 40 kg/hectare Potassium (varies by region and soil type)
+
+Main fertilizers used: Urea (Nitrogen), DAP or SSP (Phosphorus), MOP - Muriate of Potash (Potassium), and Zinc Sulphate as needed
+
+TIMING OF FERTILIZER APPLICATION (split nitrogen application is important to reduce losses)
+- Apply full Phosphorus and Potash, plus 50% of Nitrogen, as basal dose at transplanting
+- Apply 25% Nitrogen at maximum tillering stage
+- Apply remaining 25% Nitrogen at panicle initiation stage
+Splitting nitrogen this way improves nitrogen use efficiency and crop yield compared to applying it all at once.
+
+WEED MANAGEMENT
+- Remove weeds during the first 30-45 days after planting - this is the critical window
+- Maintain proper standing water levels to naturally suppress weed growth
+- Use recommended herbicides only when necessary, following label instructions
+- Practice crop rotation to reduce recurring weed problems
+- Combine cultural, mechanical, and chemical methods for best long-term weed control (Integrated Weed Management)
+
+PEST MANAGEMENT - STEM BORER AND LEAF FOLDER
+- Use pheromone traps for monitoring: 3 traps per acre in nursery
+- Take action when trap catch reaches 4-5 male moths per trap
+- Treatment options: Azadirachtin 0.15% EC at 800 ml/acre, or Chlorantraniliprole 0.4% GR at 4kg/acre (mixed with sand 1:1), or Chlorantraniliprole 18.5% SC at 60 ml/acre in 200 litres water, or Cartap hydrochloride 4G at 10kg/acre
+
+PEST MANAGEMENT - CASE WORM
+- Spray Indoxacarb 15.8% EC at 80 ml/acre, or Flubendiamide-based products (check current local KVK recommendation for exact product/dose)
+
+GENERAL PEST/DISEASE APPROACH
+- Monitor fields regularly for early identification
+- Remove affected plants where possible
+- Use crop protection products only when pest levels cross economic threshold (not preventively) - this reduces cost and chemical overuse
+- Weakened plants from poor nutrition are more prone to pest and disease infestation - balanced fertilization also acts as prevention
+
+MODERN ALTERNATIVE METHODS
+- Direct Seeded Rice (DSR): saves labor and water compared to transplanting, suited for water-scarce areas
+- System of Rice Intensification (SRI): uses only 5-8 kg seed/hectare (vs 40-50 kg normally), single young seedlings planted with wide spacing, intermittent watering; can show 20-50% yield increase in trials but is labor-intensive for weeding
+
+HARVESTING
+Harvest when 80-85% of grains have turned golden yellow, grains are hard, and moisture content is around 20-25%. Timely harvesting reduces grain losses and maintains quality.
+
+GENERAL ADVICE FOR FARMERS
+Always base fertilizer application on soil test results (via free Soil Health Card scheme) rather than general guidelines alone. For current pest/disease treatment recommendations, verify with your local Krishi Vigyan Kendra (KVK), as products and doses may be updated.
+
+SOURCE: ICAR-National Rice Research Institute, state agriculture department package of practices.

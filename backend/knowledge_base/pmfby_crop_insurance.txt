@@ -1,0 +1,50 @@
+TITLE: PM Fasal Bima Yojana (PMFBY) - Crop Insurance Advisory
+
+WHAT IS PMFBY
+Pradhan Mantri Fasal Bima Yojana is a government-backed crop insurance scheme launched on 18 February 2016 by the Ministry of Agriculture and Farmers Welfare. It protects farmers against crop loss from natural calamities, pests, and diseases. It is a Central Sector Scheme with premium subsidies shared between Central and State governments.
+
+WHO CAN APPLY
+All farmers growing notified crops in notified areas are eligible, including:
+- Owner cultivators
+- Tenant farmers
+- Sharecroppers
+Both loanee and non-loanee farmers can enroll. The scheme is voluntary.
+
+PREMIUM RATES (farmer's share only, government subsidizes the rest)
+- Kharif crops (rice, maize, etc.): 2% of sum insured
+- Rabi crops (wheat, pulses, etc.): 1.5% of sum insured
+- Commercial/horticultural crops: 5% of sum insured
+
+EXAMPLE CALCULATION
+If the sum insured for paddy is Rs. 50,000 per hectare, the farmer's Kharif premium is just Rs. 1,000 (2% of Rs. 50,000). The government pays the remaining actuarial premium, which can be Rs. 8,000-15,000 depending on risk assessment.
+
+WHAT IS COVERED
+The scheme covers the entire crop cycle:
+- Prevented sowing/planting before the season
+- Standing crop losses during the season (drought, flood, pest, disease, etc.)
+- Post-harvest losses due to unseasonal rain or cyclone (for crops kept in the field up to 14 days after harvest)
+
+NEW ADDITIONS FROM KHARIF 2026
+- Wild animal attack cover: for crop damage caused by elephants, wild boar, nilgai, deer, etc. (useful for farmers near forests/wildlife corridors)
+- Paddy inundation cover: for paddy damaged by prolonged water-logging from heavy or unseasonal rainfall, especially in coastal/flood-prone states
+
+HOW TO CLAIM
+1. Report crop loss within 72 hours of the event to your bank, insurance company, or via pmfby.gov.in
+2. Mention: survey number of affected land, crop name, area affected, and policy/application number
+3. Late reporting beyond 72 hours is the most common reason claims get rejected - report immediately
+
+APPLICATION DEADLINES
+- Kharif season: apply by July 31
+- Rabi season: apply by December 31
+(Exact dates may be updated each year - verify on pmfby.gov.in)
+
+COMMON MISTAKES TO AVOID
+- Missing application deadlines
+- Incorrect crop type or land size details
+- Aadhaar not linked to mobile number for OTP verification
+- Delayed loss reporting beyond 72 hours
+
+STATE-SPECIFIC NOTE
+Punjab has not joined PMFBY since its 2016 launch. Punjab farmers currently receive compensation only under SDRF/NDRF guidelines (maximum Rs. 17,000 per hectare for losses up to 2 hectares), which is lower than PMFBY coverage would provide.
+
+SOURCE: Official PMFBY Portal (pmfby.gov.in), Ministry of Agriculture and Farmers Welfare, Government of India.
