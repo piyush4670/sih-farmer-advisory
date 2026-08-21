@@ -1,0 +1,40 @@
+TITLE: Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - Irrigation Subsidy Advisory
+
+WHAT IS PMKSY
+A national mission with the goal "Har Khet Ko Pani" (water to every farm), aimed at expanding assured irrigation, improving on-farm water-use efficiency, and increasing crop productivity per unit of water ("Per Drop More Crop"). It brings together large infrastructure projects (canals, dams) with individual farm-level micro-irrigation support.
+
+KEY COMPONENT FOR INDIVIDUAL FARMERS: PER DROP MORE CROP (PDMC)
+This is the part of the scheme most relevant to individual farmers - it provides subsidy support for installing micro-irrigation systems (drip and sprinkler) on their farms. Since 2022, PDMC operates as a distinct component focused specifically on farm-level water efficiency.
+
+SUBSIDY AMOUNT
+- Small and marginal farmers: 55% subsidy on micro-irrigation system cost
+- Other farmers: 45% subsidy
+- Some sources indicate subsidy can range up to 55-75% depending on category and state-specific top-up support - always confirm exact current rate with your state agriculture department, as states sometimes add their own additional subsidy on top of the central rate
+- Cost is shared between Centre and State governments in 60:40 ratio for general states
+
+BENEFITS OF DRIP/SPRINKLER IRRIGATION
+- Saves 30-50% water compared to traditional flood irrigation
+- Improves fertilizer efficiency (can be combined with fertigation - applying fertilizer through the irrigation system)
+- Increases yield per unit of water used
+- Reduces water-logging and associated disease risk compared to flood irrigation
+
+HOW TO INSTALL
+Farmers can install the micro-irrigation system themselves or through any approved micro-irrigation company/contractor empanelled under the scheme.
+
+RECENT SCHEME UPDATES (as of 2026)
+The scheme has been extended with a total outlay of Rs. 93,068.56 crore for the 2021-2026 period. The Union Budget 2026-27 allocated Rs. 6,587 crore specifically to fast-track micro-irrigation adoption among small and marginal farmers. A newer sub-component called M-CADWM (Modernization of Command Area Development and Water Management) is replacing older field channels with pressurized piped grids and micro-irrigation links in select project areas.
+
+OTHER COMPONENTS OF PMKSY (broader, mostly infrastructure-level, less direct individual farmer action needed)
+- Jal Sanchay (rainwater harvesting) and Jal Sinchan (precision water application) - the two broad operational streams
+- Watershed Development Component - develops rainfed areas through watershed projects, soil conservation, and water harvesting, implemented by the Department of Land Resources
+- Accelerated Irrigation Benefit Programme (AIBP) - large canal/dam infrastructure completion, not individual-farmer facing
+
+HOW TO CHECK STATUS / APPLY
+- Official portal: pmksy.gov.in
+- Check application status using registration number or Aadhaar
+- For help, call Kisan Call Centre toll-free: 1800-180-1551
+
+IMPORTANT NOTE
+All PMKSY services and subsidy applications are free through official channels. Never pay an unauthorized agent for application assistance. Only work with government-approved/empanelled micro-irrigation companies for installation to ensure your subsidy claim is valid.
+
+SOURCE: Official PMKSY Portal (pmksy.gov.in), Department of Agriculture and Farmers Welfare, Government of India.

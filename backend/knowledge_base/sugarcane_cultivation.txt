@@ -1,0 +1,50 @@
+TITLE: Sugarcane Cultivation Advisory - Red Rot Disease Management
+
+OVERVIEW
+India is the second largest sugarcane producer in the world. Uttar Pradesh is the largest sugarcane producing state. Sugarcane is a water-intensive crop grown in alluvial, black, and red soil types, in regions with warm, humid climate and consistent rainfall.
+
+PLANTING METHOD
+Sugarcane is planted using stem cuttings called "setts" (not seeds). Choose disease-free, healthy setts from a reliable source.
+
+RECOMMENDED VARIETIES (chosen for yield, sugar content, disease resistance, and climate suitability)
+Commonly cultivated varieties: Co 0238, Co 86032, Co 0118, CoS 767, Co 0239. For red rot resistance specifically: Co 86032, Co 86249, CoSi 95071, CoG 93076, CoC 22, CoSi 6, CoG 5. Variety choice should match your region - confirm the best option with your local KVK, as resistant varieties can lose their resistance over time due to the pathogen changing.
+
+FERTILIZER APPLICATION
+- Apply fertilizer based on soil test results - this is the single most reliable way to avoid over- or under-application
+- Entire Phosphorus dose is applied as a basal dose at planting
+- Nitrogen and Potash are applied in two equal split doses as top dressing: at 45 days and 90 days after planting
+- For sandy/open-textured soils and early-maturing varieties: split Nitrogen and Potash into three equal applications instead of two
+- Time nitrogen application to match the crop's actual uptake pattern and available soil moisture, to reduce nutrient loss through leaching or runoff
+- Where drip irrigation is available, fertigation (applying fertilizer through the drip system) improves efficiency further
+
+RED ROT DISEASE (Colletotrichum falcatum) - "THE CANCER OF SUGARCANE"
+- This is the most serious and destructive disease affecting sugarcane in India, causing major production losses
+- The pathogen is highly variable, meaning resistant varieties often lose their resistance within a few years as new pathogen strains (pathotypes) emerge - this is why continuous variety rotation and monitoring matters
+- Symptoms: reddening of internal cane tissue (visible when cane is cut open), wilting, drying of leaves
+
+RED ROT MANAGEMENT
+1. Grow recommended resistant or moderately resistant varieties (see list above) - but don't rely on one variety long-term due to resistance breakdown risk
+2. Crop rotation is essential in affected fields: rotate with rice for one season, followed by other non-host crops for two seasons, before returning to sugarcane
+3. Use only healthy, disease-free setts for planting - this is one of the most effective preventive steps, since the disease can spread through infected planting material
+4. Sett treatment before planting: dip setts in fungicide solution as recommended by local KVK (specific product should be confirmed as recommendations evolve with pathogen resistance)
+5. Field sanitation: remove and destroy infected plant material rather than leaving it in the field
+6. Biological approaches (e.g., Trichoderma-based treatments) are being researched as sustainable alternatives to purely chemical control
+
+PEST MANAGEMENT (Integrated Pest Management approach recommended)
+- Regular field monitoring for early pest detection significantly reduces both pesticide cost and crop damage
+- Targeted, need-based spraying (rather than routine calendar-based spraying) can reduce pesticide usage substantially while maintaining control effectiveness
+- For specific pest identification and current treatment recommendations, consult local KVK, as sugarcane pest pressure varies significantly by region
+
+IRRIGATION
+Sugarcane requires regular, consistent irrigation throughout its growing period since it is a water-intensive crop - plan irrigation scheduling carefully, especially during dry spells, as water stress significantly affects yield and sugar content.
+
+END PRODUCTS
+At maturity, sugarcane is harvested and processed into: sugar, juice, molasses, and ethanol (a valuable by-product used in biofuel).
+
+GENERAL ADVICE
+Since red rot resistance in varieties breaks down over time, staying updated on locally recommended varieties (rather than continuing with an older variety out of habit) is one of the most impactful things a sugarcane farmer can do to protect yield.
+
+WHERE TO GET HELP
+Contact ICAR-Sugarcane Breeding Institute (Coimbatore) or ICAR-Indian Institute of Sugarcane Research (Lucknow), or your local Krishi Vigyan Kendra, for current variety recommendations and region-specific red rot/pest management guidance.
+
+SOURCE: ICAR-Sugarcane Breeding Institute, ICAR-Indian Institute of Sugarcane Research, sugarcane.icar.gov.in.

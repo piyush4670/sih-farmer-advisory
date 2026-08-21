@@ -1,0 +1,79 @@
+TITLE: Soybean Cultivation Advisory
+
+SEASON AND SOWING TIME
+Soybean is primarily a Kharif (rainy season) crop in India:
+- Sowing: onset of monsoon, last week of June to first week of July
+- Harvesting: September-October
+- Crop duration: approximately 90-110 days depending on variety and climate
+- A smaller spring-sown crop is also grown in some regions (15th February to 15th March)
+
+SOIL SELECTION
+Sandy loam and loamy soils with high organic carbon content are best suited for soybean.
+
+LAND PREPARATION
+- Deep ploughing once every 2-3 years to maintain soil moisture and nutrient balance
+- After monsoon onset, level field with cultivator 2-3 times followed by planking
+- During final ploughing, incorporate 5-10 tonnes of well-decomposed farmyard manure or 2.5 tonnes poultry manure per hectare
+
+SOWING METHOD
+- Line sowing using seed drill is preferred (uses fewer seeds, easier weeding/hoeing)
+- Spacing: 45-60 cm x 2.5 cm for Kharif season
+- Seedling depth: 2-3 cm in heavy soils, 3-4 cm in light soils
+- Seed rate: 20-30 kg/hectare for grain purpose (70-75 kg/hectare if grown for fodder)
+- Seeds should have minimum 70% germination rate - if lower, increase seed rate accordingly
+- Seed treatment: treat with Rhizobium culture before sowing (helps nitrogen fixation), and with fungicides like Thiram or Carbendazim to prevent seed-borne diseases
+
+FERTILIZER DOSE
+Since soybean is a legume, symbiotic nitrogen fixation by root nodules supplies part of its nitrogen need, but studies show soybean still responds positively to applied nitrogen - the crop is supplied only 10-15% of its total nitrogen requirement from its own root fixation.
+- Nitrogen: 8-50 kg/hectare (lower end if good nodulation, higher if needed)
+- Phosphorus (P2O5): 32-100 kg/hectare
+- Potash (K2O): 8 kg/hectare
+- Sulphur: 8-20 kg/hectare
+- Zinc Sulphate: 25 kg/acre for deep black soil, 10 kg/acre for shallow soil (apply after every 5-6 crop cycles, not every season)
+- Borax: 10 kg/hectare where deficiency noted
+
+IRRIGATION
+Kharif soybean is generally rainfed and does not need irrigation unless rainfall is insufficient. If irrigation becomes necessary (or for spring-sown crop), critical growth stages needing water are:
+1. Sprouting stage
+2. Flowering stage
+3. Pod initiation stage
+4. Bean/seed filling stage
+These stages are most critical for final yield - prioritize irrigation here if water is limited.
+
+WEED MANAGEMENT
+Critical during first 30-40 days after sowing. Options:
+- Mechanical: harrow or rotavator after germination
+- Pre-sowing herbicide: Fluchloralin 800 ml/acre
+- Pre-emergence herbicides: Alachlor 1.6 L/acre, Pendimethalin 1.2 L/acre, or Metolachlor 800 ml/acre
+- Post-emergence (for grass and broadleaf weeds): Quizalofop-ethyl 400 ml/acre, or Imazethapyr 300 ml/acre
+
+MAJOR PESTS
+- Blue beetle
+- Leaf-eating caterpillars
+- Stem fly
+- Girdle beetle
+- Aphids
+
+PEST MANAGEMENT APPROACH
+- Do soil and seed treatment before and at planting as a preventive step
+- Biological control options: Bacillus thuringiensis (Bt), Beauveria bassiana, or NPV (Nuclear Polyhedrosis Virus) sprays - most effective when applied during early pest stages
+- Monitor regularly and use recommended chemical control only when pest levels are significant
+
+MAJOR DISEASE
+Rust - a fungal disease that can significantly affect soybean; use recommended fungicide and resistant varieties where available; consult local KVK for current recommendation.
+
+RECOMMENDED VARIETIES (region-specific - ICAR/IARI identified)
+- Northern Plains (e.g., Delhi region): Pusa 12, SL 952, NRC 130
+- Central Region (e.g., Madhya Pradesh): JS 20-34, JS 116, JS 335, NRC 128
+Farmers should confirm the best variety for their specific agro-climatic zone with their local KVK or ICAR center, as ICAR has released 25 improved climate-smart soybean varieties overall.
+
+BENEFITS OF SOYBEAN IN CROP ROTATION
+As a legume, soybean fixes atmospheric nitrogen and improves soil fertility for the next crop, making it valuable in sustainable crop rotation systems, not just for its own yield.
+
+GENERAL ADVICE
+Test soil before sowing to understand nutrient deficiencies and apply fertilizer precisely rather than using blanket recommendations. Use certified, pest-resistant seed suited to your agro-climatic zone.
+
+WHERE TO GET HELP
+Visit your nearest ICAR center or Krishi Vigyan Kendra (KVK) for information on latest improved soybean varieties and current regional pest/disease guidance.
+
+SOURCE: ICAR/IARI soybean advisories, state agriculture department Kharif guidelines.
